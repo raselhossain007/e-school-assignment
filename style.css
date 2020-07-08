@@ -105,7 +105,7 @@ a.navbar-brand {
     color: #21B573;
 }
 
-/*website summary card section */
+/*website summary section */
 .website-summary-section img.card-img-top {
     max-width: 80px;
     margin: 0 auto;
@@ -129,7 +129,7 @@ a.navbar-brand {
     border-radius: 10px;
 }
 
-/* online course card section */
+/* online course section */
 .online-course .card-img-top {
     margin-top: 15px;
     padding: 20px;
